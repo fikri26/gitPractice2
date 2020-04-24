@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e7ae0f5-f60f-468c-8e73-1bbcf54b560c" name="Default Changelist" comment="testClass.java&#10;&#10;(cherry picked from commit 56abec0935f214814271b736b046ba9ca2ab5951)" />
-    <list id="1061d1ce-d2f4-4c2b-98d8-48f5e59f73ed" name="testClass.java" comment="testClass.java&#10;&#10;(cherry picked from commit 56abec0935f214814271b736b046ba9ca2ab5951)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="1061d1ce-d2f4-4c2b-98d8-48f5e59f73ed" name="testClass.java" comment="testClass.java&#10;&#10;(cherry picked from commit 56abec0935f214814271b736b046ba9ca2ab5951)" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day_1/AllGood.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day_1/AllisWell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,13 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/day_1/AllGood.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/day_1/AllisWell.java" />
       </list>
     </option>
   </component>
@@ -107,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AllisWell">
     <configuration name="AllGood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_1.AllGood" />
       <module name="gitPractice2" />
@@ -121,8 +126,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AllisWell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_1.AllisWell" />
+      <module name="gitPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AllisWell" />
         <item itemvalue="Application.AllGood" />
       </list>
     </recent_temporary>
@@ -247,17 +266,21 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml~56abec0... testClass.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day_1/AllisWell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day_1/AllGood.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day_1/AllisWell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
